@@ -12,6 +12,8 @@ In order to accomplish the assignment, the following steps were completed:
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables.  Use images where needed
 ![image](https://user-images.githubusercontent.com/90434559/142565300-5c7b9bf8-8a10-4c73-8d48-cfe58aa9a399.png)
+![image](https://user-images.githubusercontent.com/90434559/142565347-e64e96b0-bba8-45b9-a3b9-3ab2ed3acee0.png)
+
 
 
 ## Summary
