@@ -4,7 +4,7 @@
 The purpose of the Surfs Up Module 9 Challenge was to retrieve data related to the temperatures on Oahu for the months of June and December, display the data in a dataframe, provide a statistical summary of the data, and create a write-up to discuss the analysis of the results.  
 
 In order to accomplish the assignment, the following steps were completed:
-  1.  Filter several years of data to only show the months required and the temperatures.
+  1.  Filter several years of data for June and December temperatures
   2.  Create a list from the data
   3.  Create a dataframe of the data
   4.  Provide a statistical summary analysis of the temperature data  
