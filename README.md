@@ -11,6 +11,8 @@ In order to accomplish the assignment, the following steps were completed:
 
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables.  Use images where needed
+![image](https://user-images.githubusercontent.com/90434559/142565300-5c7b9bf8-8a10-4c73-8d48-cfe58aa9a399.png)
+
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December
